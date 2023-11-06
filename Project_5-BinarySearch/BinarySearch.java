@@ -20,7 +20,7 @@ public class BinarySearch {
             }
         }   
         if (isFound == false){
-            System.out.println("L'obiettivo non è presente all'intenro dell'array"); 
+            System.out.println("L'obiettivo non è presente all'interno dell'array"); 
         }            
     }
-}
+}                                                                                   
