@@ -1,6 +1,6 @@
 public class BinarySearch {
     public static void main(String[] args) {
-        int[]   arr = {2, 4, 6, 8, 10, 12, 14, 16, 18};
+        int[]   arr = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40};
         int     target = 10;
         int     left = 0;
         int     right = arr.length - 1;
