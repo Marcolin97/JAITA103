@@ -10,6 +10,7 @@ public class Methods {
         chiediCosaVuoiFareOggi();
         //3000 righe dopo
         chiediCosaVuoiFareOggi();
+        
         // LocalDate oggi = LocalDate.now();
         // DayOfWeek giorno = oggi.getDayOfWeek();
         DayOfWeek giorno = giornoSettimana();
